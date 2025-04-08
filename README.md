@@ -34,5 +34,6 @@ Go to the browser and visit [http://localhost:5173]()
 
 
 ##### Sample Images
-  ![Alt Inputs ](https://github.com/yosiaLukumai/student_perfomance_model/blob/master/inputs.png)
-  ![Alt Output of the model ](https://github.com/yosiaLukumai/student_perfomance_model/blob/master/output.png)
+  ![Alt Inputs of the model ](https://github.com/yosiaLukumai/student_perfomance_model/blob/master/output.png)
+  ![Alt Outputs of the model ](https://github.com/yosiaLukumai/student_perfomance_model/blob/master/inputs.png)
+
