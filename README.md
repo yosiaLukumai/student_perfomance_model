@@ -34,5 +34,5 @@ Go to the browser and visit [http://localhost:5173]()
 
 
 ##### Sample Images
-  ![Alt landing screen ](https://github.com/yosiaLukumai/student_perfomance_model/blob/master/Snaps/Landing.png)
-  ![Alt Buy screen ](https://github.com/yosiaLukumai/student_perfomance_model/blob/master/Snaps/Units.png)
+  ![Alt Inputs ](https://github.com/yosiaLukumai/student_perfomance_model/blob/master/inputs.png)
+  ![Alt Output of the model ](https://github.com/yosiaLukumai/student_perfomance_model/blob/master/output.png)
